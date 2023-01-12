@@ -24,6 +24,7 @@ namespace Calculator.Lonchanick
                 Console.WriteLine("\td - Divide");
                 Console.WriteLine("\tl - See log of operations");
                 Console.WriteLine("\tx - Exit");
+                Console.WriteLine("\tx - Some changes ????");
                 Console.Write("Your option? ");
                 string op = ToolBox.GetValidOption();
                 if(op=="x")
